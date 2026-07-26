@@ -45,3 +45,11 @@ Universidad Católica de la Santísima Concepción. (2021). *Estrategia de estud
 Gruber, J. (2004). *Markdown Syntax Documentation*. Daring Fireball.  
 🔗 **Enlace de acceso:** [https://daringfireball.net/projects/markdown/syntax](https://daringfireball.net/projects/markdown/syntax)  
 * **Aporte al manual:** Define las especificaciones de sintaxis del lenguaje de marcado ligero Markdown para la creación de documentos legibles, portables y convertibles a formatos web o PDF.
+
+---
+
+<a id="ref-apastyle-2020"></a>
+### American Psychological Association. (2020)
+American Psychological Association. (2020). *Style and Grammar Guidelines: APA Style (7th ed.)*. APA.  
+🔗 **Enlace de acceso:** [https://apastyle.apa.org/](https://apastyle.apa.org/)  
+* **Aporte al manual:** Sitio web oficial de la APA que establece las reglas definitivas para la redacción, citación y estructuración de referencias bibliográficas a nivel internacional.
