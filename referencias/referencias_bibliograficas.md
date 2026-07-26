@@ -37,3 +37,11 @@ Todoist. (2024). *La guía definitiva de la Técnica Pomodoro para la productivi
 Universidad Católica de la Santísima Concepción. (2021). *Estrategia de estudio: Matriz de priorización de Eisenhower*. Portal del Programa de Acompañamiento Académico (PAP - UCSC).  
 🔗 **Enlace de acceso:** [https://pap.ucsc.cl/2021/08/18/estrategia-de-estudio-matriz-de-priorizacion-de-eisenhower/](https://pap.ucsc.cl/2021/08/18/estrategia-de-estudio-matriz-de-priorizacion-de-eisenhower/)  
 * **Aporte al manual:** Fundamenta la clasificación de actividades académicas en cuadrantes de urgencia e importancia para mejorar la toma de decisiones y evitar la saturación de tareas.
+
+---
+
+<a id="ref-gruber-2004"></a>
+### Gruber. (2004)
+Gruber, J. (2004). *Markdown Syntax Documentation*. Daring Fireball.  
+🔗 **Enlace de acceso:** [https://daringfireball.net/projects/markdown/syntax](https://daringfireball.net/projects/markdown/syntax)  
+* **Aporte al manual:** Define las especificaciones de sintaxis del lenguaje de marcado ligero Markdown para la creación de documentos legibles, portables y convertibles a formatos web o PDF.
